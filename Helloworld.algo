@@ -15,7 +15,10 @@ Afficher la fenêtre
 //branch1
 couleur du texte principal en bleu
 couleur du fond en vert
+<<<<<<< HEAD
 Mettre fenetre large
 Aligner a gauche 
+=======
+>>>>>>> 534991a (couleur de fond en vert)
 }
 }
