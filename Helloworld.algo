@@ -17,6 +17,10 @@ couleur du texte principal en bleu
 couleur du fond en vert
 Mettre fenetre large
 Aligner a gauche 
+<<<<<<< HEAD
 Bordure noir
+=======
+Ajout de bordure rouge
 }
+>>>>>>> 44d5ad662192ad20f922ea15d4226eb15dd8fdab
 }
